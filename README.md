@@ -28,7 +28,7 @@ The focus for this project and the main learning points were to practice, and be
 
 ### Application instructions
 
-![Menu bar](./screenshots/menu.png)
+![Menu bar](./screenshots/menu.PNG)
 
 The application is operated via the menu bar (shown above). The instructions given (such as File/Open) will involve selecting the options in the menu and the subsequent option in the available dropdown.
 
