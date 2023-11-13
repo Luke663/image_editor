@@ -1,5 +1,4 @@
 # image_editor
----------------------------------------------------------------------------
 
 ### Description
 This Python desktop application is a simple image editor. It allows cropping, resizing, orientational changes, EXIF data viewing/removal, annotating, inserting of additional images, and the application of filters to images.
