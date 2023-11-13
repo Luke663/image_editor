@@ -32,7 +32,7 @@ The focus for this project and the main learning points were to practice, and be
 
 The application is operated via the menu bar (shown above). The instructions given (such as File/Open) will involve selecting the options in the menu and the subsequent option in the available dropdown.
 
-#####Options:
+#### Options:
 
 1. **File:**
 &nbsp;**Open** - Opening an image with the application requires clicking File/Open and selecting the file you wish to open.
@@ -71,7 +71,7 @@ The last element of the menu bar is a state display. This allows the user to con
 
 To run the code, after cloning the repository running 'main.py' will start the application. This can be done either via an IDE such as PyCharm or via the command line.
 
-#####Requirements:
+#### Requirements:
 - Python 3 (and the included Tkinter module)
 - Pillow (PIL), installable with the following CLI commands:
 
