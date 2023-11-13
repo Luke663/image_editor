@@ -32,7 +32,7 @@ The focus for this project and the main learning points were to practice, and be
 
 The application is operated via the menu bar (shown above). The instructions given (such as File/Open) will involve selecting the options in the menu and the subsequent option in the available dropdown.
 
-#### Options:
+#### Menu options:
 
 1. **File:**
 
